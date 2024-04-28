@@ -1,3 +1,4 @@
 [ginlemon.iconpackstudio]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 build-mode = "both"
+version = "latest"
